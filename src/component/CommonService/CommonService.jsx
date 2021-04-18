@@ -9,7 +9,7 @@ const CommonService = () => {
           <div className="col-md-6">
             <div className="card mb-3 bg-transparent border-0">
               <div className="row g-0">
-                <div className="col-md-2">
+                <div className="col-md-2 d-flex justify-content-center align-items-center">
                   <img
                     className="m-3"
                     src="./images/svg/1.svg"
@@ -31,7 +31,7 @@ const CommonService = () => {
             </div>
             <div className="card mb-3 bg-transparent border-0">
               <div className="row g-0">
-                <div className="col-md-2">
+                <div className="col-md-2 d-flex justify-content-center align-items-center">
                   <img
                     className="m-3 "
                     src="./images/svg/2.svg"
@@ -53,7 +53,7 @@ const CommonService = () => {
             </div>
             <div className="card mb-3 bg-transparent border-0">
               <div className="row g-0">
-                <div className="col-md-2">
+                <div className="col-md-2 d-flex justify-content-center align-items-center">
                   <img
                     className="m-3"
                     src="./images/svg/3.svg"
@@ -77,7 +77,7 @@ const CommonService = () => {
           <div className="col-md-6">
             <div className="card mb-3 bg-transparent border-0">
               <div className="row g-0">
-                <div className="col-md-2">
+                <div className="col-md-2 d-flex justify-content-center align-items-center">
                   <img
                     className="m-3"
                     src="./images/svg/4.svg"
@@ -100,7 +100,7 @@ const CommonService = () => {
             </div>
             <div className="card mb-3 bg-transparent border-0">
               <div className="row g-0">
-                <div className="col-md-2">
+                <div className="col-md-2 d-flex justify-content-center align-items-center">
                   <img
                     className="m-3"
                     src="./images/svg/5.svg"
@@ -122,7 +122,7 @@ const CommonService = () => {
             </div>
             <div className="card mb-3 bg-transparent border-0">
               <div className="row g-0">
-                <div className="col-md-2">
+                <div className="col-md-2 d-flex justify-content-center align-items-center">
                   <img
                     className="m-3"
                     src="./images/svg/6.svg"

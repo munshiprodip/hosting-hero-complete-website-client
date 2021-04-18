@@ -4,7 +4,7 @@ const FeatureSection = () => {
   return (
     <section className="bg-dark p-5">
       <section className=" container">
-        <h1 className="text-light text-center">WHY CHOOSE US</h1>
+        <h1 className="text-light text-center small-heading">WHY CHOOSE US</h1>
         <p className="text-light text-center p-3 fw-light">
           If storage devices were cars, in the amount of time it would take for
           a 15K HDD to travel from kawran bazar to farmgat (100 meter), a NAND
